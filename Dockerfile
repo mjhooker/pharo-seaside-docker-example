@@ -1,6 +1,6 @@
 # -*- sh -*-
-FROM geal/archlinux-seaside
-MAINTAINER Geoffroy Couprie, contact@geoffroycouprie.com
+FROM mjhooker/archlinux-pharo-image
+MAINTAINER mjhooker, mjhooker@gmail.com
 
 ADD . /home/deploy
 
